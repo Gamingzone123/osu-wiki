@@ -29,6 +29,7 @@ Index page for articles related to core gameplay elements and concepts.
 - [Judgement](/wiki/Gameplay/Judgement)
 - [Kiai time](/wiki/Gameplay/Kiai_time)
 - [Mind block](/wiki/Gameplay/Mind_block)
+- [Miss](/wiki/Gameplay/Miss)
 - [Mod multiplier](/wiki/Gameplay/Game_modifier/Mod_multiplier)
 - [Notelock](/wiki/Gameplay/Judgement/Notelock)
 - [Pass](/wiki/Gameplay/Pass)
