@@ -80,7 +80,7 @@ If [Auto Pilot](/wiki/Gameplay/Game_modifier/Autopilot) game modifier was used, 
 
 [Score in osu!](/wiki/Gameplay/Score/ScoreV1/osu!) is a weighted sum of multiple components of gameplay. It depends on the following:
 
-- [Judgement](/wiki/Gameplay/Judgement/osu!) determines a hit object's base scoring value (300, 100, 50, or 0 in case of a miss). For [hit circles](/wiki/Gameplay/Hit_object/Hit_circle), well-timed key presses are valued more, both in terms of score and accuracy. [Sliders](/wiki/Gameplay/Hit_object/Slider) and [spinners](/wiki/Gameplay/Hit_object/Spinner) don't have hit windows, but will break combo when missed or not cleared properly. Getting a higher judgement also provides a higher [health](/wiki/Gameplay/Health) boost.
+- [Judgement](/wiki/Gameplay/Judgement/osu!) determines a hit object's base scoring value (300, 100, 50, or 0 in case of a [miss](/wiki/Gameplay/Miss)). For [hit circles](/wiki/Gameplay/Hit_object/Hit_circle), well-timed key presses are valued more, both in terms of score and accuracy. [Sliders](/wiki/Gameplay/Hit_object/Slider) and [spinners](/wiki/Gameplay/Hit_object/Spinner) don't have hit windows, but will break combo when missed or not cleared properly. Getting a higher judgement also provides a higher [health](/wiki/Gameplay/Health) boost.
 - [Accuracy](/wiki/Gameplay/Accuracy#osu!) depends on judgement and shows how precise hits are. Late or early key presses, as well as misses, decrease overall accuracy.
 - [Combo](/wiki/Gameplay/Combo_(score_multiplier)) is a score multiplier: clearing a hit object contributes more to the total score when combo is high and vice versa. Combo may be [broken](/wiki/Gameplay/Judgement/Combobreak) by a miss or a [slider break](/wiki/Gameplay/Judgement/Slider_break).
 

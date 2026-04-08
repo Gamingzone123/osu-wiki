@@ -29,7 +29,7 @@ Reference for one hit circle:
 
 ![Accuracy = (number of GREATs + 0.5 \* number of GOODs) / (number of GREATs + number of GOODs + number of misses)](img/accuracy_taiko_updated.png "Accuracy formula for osu!taiko")
 
-In osu!taiko, accuracy is calculated by taking the sum of the note accuracy (how close you were to hitting the note on time) divided by the number of total notes scored thus far. The note accuracies are labelled as a GREAT (良) (counts as 100%), GOOD (可) (counts as 50%) (half), and MISS/BAD (不可) (counts as 0%, which also breaks the combo). Drum rolls and spinners do not influence accuracy.
+In osu!taiko, accuracy is calculated by taking the sum of the note accuracy (how close you were to hitting the note on time) divided by the number of total notes scored thus far. The note accuracies are labelled as a GREAT (良) (counts as 100%), GOOD (可) (counts as 50%) (half), and [MISS/BAD](/wiki/Gameplay/Miss) (不可) (counts as 0%, which also breaks the combo). Drum rolls and spinners do not influence accuracy.
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch
 
