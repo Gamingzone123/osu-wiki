@@ -39,7 +39,7 @@ Collected fruits will always give a `GREAT` judgement, rewarding 300 points each
 
 A typical **juice stream** contains two fruits at its start and end. Between the start and the end there will also be a path made out of small and large droplets, with the large droplets acting as slider ticks. Juice streams, similarly to sliders, can be reversed.
 
-Small droplets give 10 points each and do not affect combo, while large droplets give 30 points each and increase the combo by 1 if caught. Unlike small droplets, missing a large droplet resets the combo.
+Small droplets give 10 points each and do not affect combo, while large droplets give 30 points each and increase the combo by 1 if caught. Unlike small droplets, [missing](/wiki/Gameplay/Miss) a large droplet resets the combo.
 
 ### Banana showers
 
